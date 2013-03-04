@@ -10,9 +10,9 @@
 
 class List < ActiveRecord::Base
   attr_accessible :name
-
   has_many :items, dependent: :destroy
 
-  validates :name, presence: true,uniqueness: { case_sensitive: false }
+  before_validation { |list| list.name = Time.now.strftime("%Y%m%d%H%M%S") if list.nil? }
 
+  validates :name, presence: true, uniqueness: { case_sensitive: false }
 end

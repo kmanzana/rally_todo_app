@@ -18,7 +18,12 @@ describe List do
   it { should respond_to(:name) }
   it { should respond_to(:items) }
 
-  it { should be_valid}
+  it { should be_valid }
+
+  context "when name is present" do
+    before { @list.save }
+    its(:name) { should == "Example List" }
+  end
 
   context "when name is not present" do
     before { @list.name = " " }
