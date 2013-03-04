@@ -1,14 +1,20 @@
-<div class="center hero-unit">
-  <h1>Welcome to Kelton's ToDo App</h1>
+<%-# do all this if not signed in? -%>
+<div class="row">
+  <div class="span6 offset3">
+  <h1>Create a ToDo list</h1>
+  <h4><%= "List: #{@list.name}" %></h4>
 
-  <h2>This is h2</h2>
 
+  <%= form_for(@list.items[3]) do |f| %>
+    <%= f.text_field :name %><%= link_to "add", root_path %>
+  <% end %>
 
-
-  <h5>this is h5</h5>
-  <h6>this is h6</h6>
-  <p>this is a paragraph</p>
-  <% render :template => 'lists/new' %>
+  <ul>
+    <% 3.times do %>
+      <li>An item</li>
+    <% end %>
+  </ul>
 
   <%= link_to "Save your list", '#', class: "btn btn-large btn-primary" %>
+  </div>
 </div>
