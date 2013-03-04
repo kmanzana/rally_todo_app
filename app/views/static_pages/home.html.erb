@@ -6,12 +6,12 @@
 
 
   <%= form_for(@list.items[3]) do |f| %>
-    <%= f.text_field :name %><%= link_to "add", root_path %>
+    <%= f.text_field :name %><%= f.submit "add" %>
   <% end %>
 
   <ul>
-    <% 3.times do %>
-      <li>An item</li>
+    <% 3.times do |i| %>
+      <li><%= @list.items[i].name %></li>
     <% end %>
   </ul>
 
