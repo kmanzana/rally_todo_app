@@ -1,4 +1,17 @@
 {
   "timestamp": 1402607734000,
-  "issueLabels": {}
+  "issueLabels": {
+    "434": {
+      "changes": {
+        "1402607734000": {
+          "added": [
+            "backlog"
+          ]
+        }
+      },
+      "current": [
+        "backlog"
+      ]
+    }
+  }
 }
