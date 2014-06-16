@@ -1,5 +1,5 @@
 {
-  "timestamp": 1402695077000,
+  "timestamp": 1402954195000,
   "issueLabels": {
     "434": {
       "changes": {
@@ -11,6 +11,66 @@
       },
       "current": [
         "backlog"
+      ]
+    },
+    "827": {
+      "changes": {
+        "1402954195000": {
+          "added": [
+            "waffle:ready"
+          ]
+        }
+      },
+      "current": [
+        "waffle:ready"
+      ]
+    },
+    "1029": {
+      "changes": {
+        "1402954195000": {
+          "added": [
+            "waffle:in progress"
+          ]
+        }
+      },
+      "current": [
+        "waffle:in progress"
+      ]
+    },
+    "1035": {
+      "changes": {
+        "1402954195000": {
+          "added": [
+            "waffle:ready"
+          ]
+        }
+      },
+      "current": [
+        "waffle:ready"
+      ]
+    },
+    "1042": {
+      "changes": {
+        "1402954195000": {
+          "added": [
+            "waffle:in progress"
+          ]
+        }
+      },
+      "current": [
+        "waffle:in progress"
+      ]
+    },
+    "1043": {
+      "changes": {
+        "1402954195000": {
+          "added": [
+            "waffle:in progress"
+          ]
+        }
+      },
+      "current": [
+        "waffle:in progress"
       ]
     }
   }
