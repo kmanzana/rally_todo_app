@@ -1,6 +1,18 @@
 {
-  "timestamp": 1402954195000,
+  "timestamp": 1403018218000,
   "issueLabels": {
+    "394": {
+      "changes": {
+        "1403018218000": {
+          "added": [
+            "waffle:in progress"
+          ]
+        }
+      },
+      "current": [
+        "waffle:in progress"
+      ]
+    },
     "434": {
       "changes": {
         "1402607734000": {
@@ -13,9 +25,57 @@
         "backlog"
       ]
     },
+    "520": {
+      "changes": {
+        "1403018218000": {
+          "added": [
+            "waffle:ready"
+          ]
+        }
+      },
+      "current": [
+        "waffle:ready"
+      ]
+    },
+    "729": {
+      "changes": {
+        "1403018218000": {
+          "added": [
+            "waffle:in progress"
+          ]
+        }
+      },
+      "current": [
+        "waffle:in progress"
+      ]
+    },
     "827": {
       "changes": {
         "1402954195000": {
+          "added": [
+            "waffle:ready"
+          ]
+        }
+      },
+      "current": [
+        "waffle:ready"
+      ]
+    },
+    "977": {
+      "changes": {
+        "1403018218000": {
+          "added": [
+            "waffle:in progress"
+          ]
+        }
+      },
+      "current": [
+        "waffle:in progress"
+      ]
+    },
+    "1026": {
+      "changes": {
+        "1403018218000": {
           "added": [
             "waffle:ready"
           ]
@@ -55,11 +115,14 @@
           "added": [
             "waffle:in progress"
           ]
+        },
+        "1403018218000": {
+          "removed": [
+            "waffle:in progress"
+          ]
         }
       },
-      "current": [
-        "waffle:in progress"
-      ]
+      "current": []
     },
     "1043": {
       "changes": {
@@ -67,10 +130,25 @@
           "added": [
             "waffle:in progress"
           ]
+        },
+        "1403018218000": {
+          "removed": [
+            "waffle:in progress"
+          ]
+        }
+      },
+      "current": []
+    },
+    "1046": {
+      "changes": {
+        "1403018218000": {
+          "added": [
+            "waffle:ready"
+          ]
         }
       },
       "current": [
-        "waffle:in progress"
+        "waffle:ready"
       ]
     }
   }
