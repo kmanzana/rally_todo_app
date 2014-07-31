@@ -1,5 +1,5 @@
 {
-  "timestamp": 1406558886000,
+  "timestamp": 1406771732000,
   "issueLabels": {
     "283": {
       "changes": {
@@ -35,6 +35,18 @@
       },
       "current": [
         "waffle:needs review"
+      ]
+    },
+    "359": {
+      "changes": {
+        "1406771732000": {
+          "added": [
+            "backlog"
+          ]
+        }
+      },
+      "current": [
+        "backlog"
       ]
     },
     "394": {
@@ -218,11 +230,14 @@
           "added": [
             "waffle:needs review"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "waffle:needs review"
+          ]
         }
       },
-      "current": [
-        "waffle:needs review"
-      ]
+      "current": []
     },
     "729": {
       "changes": {
@@ -350,10 +365,18 @@
           "added": [
             "waffle:ready"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "waffle:ready"
+          ],
+          "added": [
+            "waffle:in progress"
+          ]
         }
       },
       "current": [
-        "waffle:ready"
+        "waffle:in progress"
       ]
     },
     "957": {
@@ -442,10 +465,18 @@
           "added": [
             "waffle:ready"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "waffle:ready"
+          ],
+          "added": [
+            "waffle:in progress"
+          ]
         }
       },
       "current": [
-        "waffle:ready"
+        "waffle:in progress"
       ]
     },
     "1017": {
@@ -1401,10 +1432,18 @@
           "added": [
             "backlog"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "backlog"
+          ],
+          "added": [
+            "waffle:ready"
+          ]
         }
       },
       "current": [
-        "backlog"
+        "waffle:ready"
       ]
     },
     "1147": {
@@ -1701,10 +1740,18 @@
           "added": [
             "waffle:ready"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "waffle:ready"
+          ],
+          "added": [
+            "waffle:in progress"
+          ]
         }
       },
       "current": [
-        "waffle:ready"
+        "waffle:in progress"
       ]
     },
     "1192": {
@@ -1809,11 +1856,14 @@
           "added": [
             "waffle:needs review"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "waffle:needs review"
+          ]
         }
       },
-      "current": [
-        "waffle:needs review"
-      ]
+      "current": []
     },
     "1215": {
       "changes": {
@@ -1845,10 +1895,18 @@
           "added": [
             "backlog"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "backlog"
+          ],
+          "added": [
+            "waffle:needs review"
+          ]
         }
       },
       "current": [
-        "backlog"
+        "waffle:needs review"
       ]
     },
     "1218": {
@@ -1917,11 +1975,14 @@
           "added": [
             "waffle:needs review"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "waffle:needs review"
+          ]
         }
       },
-      "current": [
-        "waffle:needs review"
-      ]
+      "current": []
     },
     "1231": {
       "changes": {
@@ -1929,10 +1990,18 @@
           "added": [
             "backlog"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "backlog"
+          ],
+          "added": [
+            "waffle:needs review"
+          ]
         }
       },
       "current": [
-        "backlog"
+        "waffle:needs review"
       ]
     },
     "1232": {
@@ -1941,15 +2010,71 @@
           "added": [
             "backlog"
           ]
+        },
+        "1406771732000": {
+          "removed": [
+            "backlog"
+          ],
+          "added": [
+            "waffle:in progress"
+          ]
+        }
+      },
+      "current": [
+        "waffle:in progress"
+      ]
+    },
+    "1233": {
+      "changes": {
+        "1406558886000": {
+          "added": [
+            "backlog"
+          ]
         }
       },
       "current": [
         "backlog"
       ]
     },
-    "1233": {
+    "1246": {
       "changes": {
-        "1406558886000": {
+        "1406771732000": {
+          "added": [
+            "waffle:ready"
+          ]
+        }
+      },
+      "current": [
+        "waffle:ready"
+      ]
+    },
+    "1247": {
+      "changes": {
+        "1406771732000": {
+          "added": [
+            "backlog"
+          ]
+        }
+      },
+      "current": [
+        "backlog"
+      ]
+    },
+    "1249": {
+      "changes": {
+        "1406771732000": {
+          "added": [
+            "waffle:ready"
+          ]
+        }
+      },
+      "current": [
+        "waffle:ready"
+      ]
+    },
+    "1250": {
+      "changes": {
+        "1406771732000": {
           "added": [
             "backlog"
           ]
